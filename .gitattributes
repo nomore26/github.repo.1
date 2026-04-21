@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+t="apple","banana","mango",
+t=list()
+t.append("charry")
+t=tupple()
