@@ -1,4 +1,6 @@
-t="apple","banana","mango",
-t=list()
-t.append("charry")
-t=tupple()
+list=[]
+n=int(input("enter the number of elements you want"))
+for i in range n:
+    a=int(input(emter the element))
+    list.append(a)
+print(list)
